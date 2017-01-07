@@ -1,1 +1,1 @@
-# discogs-wantlist-player
+#discogs-player
